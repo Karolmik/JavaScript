@@ -71,19 +71,19 @@
 
 
 // ZADANIE 6 WYBIERZ WSZYSTKIE INDEKSY Z TABLICY, KTÓRE POSIADAJĄ NAJWYŻSZĄ WARTOŚĆ 
-// let vali = [1, 6, 23, 8, 4, 98, 3, 7, 3, 98, 4, 98]
-// let max = 0;
-// for (i = 0; i < vali.length; i++) {
-//     if (max <= vali[i])
-//         max = vali[i]
-// }
+let vali = [1, 6, 23, 8, 4, 98, 3, 7, 3, 98, 4, 98]
+let max = 0;
+for (i = 0; i < vali.length; i++) {
+    if (max <= vali[i])
+        max = vali[i]
+}
 
-// for (n = 0; n < vali.length; n++) {
+for (n = 0; n < vali.length; n++) {
 
-//     if (vali[n] == max)
-//         console.log(n);
+    if (vali[n] == max)
+        console.log(n);
 
-// }
+}
 
 
 // ZADANIE 7  Oblicz srednią wartość wszystkich liczb parzystych
