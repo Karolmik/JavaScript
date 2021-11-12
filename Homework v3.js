@@ -112,15 +112,3 @@
 // console.log(obj.add.call(arr[0]));
 // console.log(obj.add.call(arr[1]));
 // console.log(obj.add.call(arr[2]));
-
-// };
-// console.log(obj.add());
-// let new = obj.add.bind(arr[0]);
-
-
-// let sum = arr.reduce((a, b) => {
-//     x: x + y
-// });
-// return sum;
-
-// console.log(sum);
