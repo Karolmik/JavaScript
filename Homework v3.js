@@ -124,30 +124,3 @@
 // return sum;
 
 // console.log(sum);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// while (i < array.length) {
-//  
-//         let num = (array[Math.floor(Math.random() * array.length)]);
-//         let numberOfIndex = array.indexOf(num);
-//         c1.push(array[i]);
-//     };
-// }
